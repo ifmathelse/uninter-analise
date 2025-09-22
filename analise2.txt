@@ -1,0 +1,337 @@
+Questão 1/10 - Análise de Sistemas
+  Ler em voz alta
+A orientação a objetos é um processo conceitual independente de uma linguagem de programação, pois tem como foco visualizar o domínio do problema a ser automatizado como uma coleção de objetos e métodos associados. 
+
+Marque a opção que que melhor define o que são objetos, no conceito da orientação a objetos:
+Nota: 10.0
+
+	A		
+Um objeto é um conjunto que representa um requisito funcional associado com seus requisitos não funcionais.
+
+	B		
+Um objeto é uma tabela do banco de dados e seus atributos.
+
+	C		
+Um objeto é uma entidade real ou abstrata, que modela um conceito presente na realidade humana, ocupando espaço físico ou lógico.  
+
+Você assinalou essa alternativa (C)
+
+Você acertou!
+
+Gabarito: A resposta correta é a letra C, conforme o Tema 2 da AULA 4.
+
+	D		
+Um objeto é um processo que mostra o funcionamento de uma parte do sistema.
+
+	E		
+Um objeto é uma parte do código, construída baseado em boas práticas de programação.
+
+Questão 2/10 - Análise de Sistemas
+  Ler em voz alta
+Os diagramas de classe são fundamentais para o processo de modelagem de objetos e modelam a estrutura estática de um sistema. Dependendo da complexidade de um sistema, é possível utilizar um único diagrama de classe para modelar um sistema inteiro ou vários diagramas de classe para modelar os componentes de um sistema. Baseado nos diagramas de classe, avalie as afirmações a seguir:
+
+
+I. O diagrama de classe mostra todas as classes de um software e os relacionamentos entre elas
+
+
+II. A modelagem das classes está totalmente relacionada com os conceitos de orientação a objetos.
+
+
+III. O objeto é uma representação do mundo real e a classe é uma representação do mundo virtual da tecnologia.
+
+São corretas:
+
+Nota: 10.0
+
+	A		Apenas II.
+	B		
+Apenas I e II.
+
+Você assinalou essa alternativa (B)
+
+Você acertou!
+
+Gabarito: A Resposta correta é a letra B. As afirmações I e II são corretas, conforme o Tema 1 da AULA 6.
+
+	C		
+Apenas I e III.
+
+	D		
+Apenas II e III.
+
+	E		I, II, III.
+Questão 3/10 - Análise de Sistemas
+  Ler em voz alta
+Um modelo de processo de desenvolvimento de software, ou simplesmente modelo de processo, pode ser visto como uma representação, ou abstração dos objetos e atividades envolvidas no processo de software. Algumas facilidades que podem ser alcançadas pela modelagem do software, são:
+
+I - Os modelos ajudam a visualizar o sistema como ele é ou como desejamos que seja, mostrando visualmente suas interfaces e funcionamento;
+
+II - Os modelos permitem especificar a estrutura ou o comportamento de um sistema;
+
+III - Os modelos ajudam a decidir a linguagem de programação a ser utilizada e garantem o sucesso do projeto.
+
+São corretas:
+
+Nota: 10.0
+
+	A		
+Apenas II
+
+	B		Apenas I e II
+Você assinalou essa alternativa (B)
+
+Você acertou!
+
+Gabarito: A Resposta correta é a letra B. As afirmações I e II são corretas, conforme o item 1.1 do Tema 1 da AULA 4.
+
+	C		
+Apenas I e III
+
+	D		
+Apenas II e III
+
+	E		
+I, II, III
+
+Questão 4/10 - Análise de Sistemas
+  Ler em voz alta
+O mundo do software começou a perceber a necessidade de utilizar um processo mais formal e padronizado para desenvolver softwares melhores. Por isso, foram concebidos o processo de desenvolvimento unificado, denominado RUP (Rational Unified Process) e a UML, considerada “a norma da indústria de software”, utilizada para descrever graficamente um software.
+
+
+Baseado nesta afirmação, marque a opção que melhor define o que é a UML:
+
+Nota: 10.0
+
+	A		
+A UML é uma linguagem ou notação de diagramas para especificar, visualizar e documentar modelos de software desenvolvidos sob os preceitos da orientação por objetos.
+
+Você assinalou essa alternativa (A)
+
+Você acertou!
+
+Gabarito: A reposta correta é a letra A, conforme explicado no TEMA 1 da AULA 4.
+
+	B		
+A UML é um processo de desenvolvimento de software para desenvolver software seguindo os conceitos ágeis.
+
+	C		
+A UML é uma linguagem de programação para especificar, visualizar e documentar modelos de software desenvolvidos sob os preceitos da orientação por objetos.
+
+	D		
+A UML é uma arquitetura que se baseia nas classes que o sistema deve possuir para satisfazer as necessidades dos usuários.
+
+	E		
+A UML é uma forma de definir requisitos para especificar, visualizar e documentar modelos de software desenvolvidos sob os preceitos da orientação por objetos.
+
+Questão 5/10 - Análise de Sistemas
+  Ler em voz alta
+Os componentes de um diagrama de caso de uso também são chamados de elementos, que compõem a identidade visual do modelo. Para entender um diagrama, é preciso entender a linguagem utilizada na sua construção. Analise as seguintes descrições sobre os elementos de um diagrama de caso de uso:
+
+
+
+
+Caso de Uso.
+
+
+
+
+Ator.
+
+
+
+
+Relacionamentos.
+
+
+
+
+ 
+
+
+Relacione cada elementos com sua função no diagrama de caso de uso, respectivamente:
+
+
+ 
+
+
+(  ) Representa o papel executado por uma entidade que interage com o sistema em questão.
+
+
+(  ) Mostram a ligação entre os elementos de um diagrama de caso de uso, ou seja, mostram a ligação dos atores com os casos de uso e dos casos de uso entre si.  
+
+
+(  ) Especifica o comportamento de um sistema, e é uma descrição de um conjunto de sequências de ações para produzir um resultado observável.  
+
+A sequência correta é:
+
+Nota: 10.0
+
+	A		1, 3, 2
+	B		3, 1, 2
+	C		1, 2, 3
+	D		3, 2, 1
+	E		2, 3, 1
+Você assinalou essa alternativa (E)
+
+Você acertou!
+
+Gabarito: A reposta correta é a letra E, conforme explicado no TEMA 4 da AULA 4.
+
+Questão 6/10 - Análise de Sistemas
+  Ler em voz alta
+O conceito de objeto é fundamental para entender como funciona a orientação a objetos, mas também é preciso entender alguns outros conceitos importantes na orientação a objetos, tais como abstração, encapsulamento e herança. Baseado na orientação a objetos, avalie as afirmações a seguir:
+
+
+I. A abstração consiste em se concentrar nos aspectos essenciais, próprios de uma entidade e em ignorar suas propriedades acidentais.
+
+
+II. O encapsulamento consiste na separação dos aspectos externos de um objeto, acessíveis por outros objetos, dos detalhes internos da implementação daquele objeto, que ficam ocultos dos demais objetos.
+
+
+III. A herança consiste no compartilhamento de atributos e operações entre objetos com base em um relacionamento hierárquico.
+
+
+É correto afirmar que:
+
+Nota: 10.0
+
+	A		
+Todas as afirmações estão erradas.
+
+	B		
+Todas as afirmações estão corretas.
+
+Você assinalou essa alternativa (B)
+
+Você acertou!
+
+Gabarito: A resposta correta é a letra B, conforme item 2.1 do Tema 2 da AULA 4.
+
+	C		
+Apenas as afirmações I e II estão corretas.
+
+	D		
+Apenas a afirmação III está correta.
+
+	E		Apenas as afirmações II e III estão corretas.
+Questão 7/10 - Análise de Sistemas
+  Ler em voz alta
+O diagrama de classe mostra todas as classes de um software e os relacionamentos entre elas. A modelagem das classes está totalmente relacionada com os conceitos de orientação a objetos. Baseado nesta afirmação, marque a opção que melhor define o que é a abstração, no conceito de orientação a objetos:
+
+Nota: 10.0
+
+	A		
+Tem o foco em aspectos relevantes para um determinado propósito, abstraindo os demais elementos que não são importantes para a situação que se está modelando.
+
+Você assinalou essa alternativa (A)
+
+Você acertou!
+
+Gabarito: A reposta correta é a letra A, conforme explicado no TEMA 1 da AULA 5.
+	B		
+Consiste na separação dos aspectos externos de um objeto, acessíveis por outros objetos, dos detalhes internos da implementação daquele objeto, que ficam ocultos dos demais objetos.
+
+	C		
+É o compartilhamento de atributos e operações entre classes com base em um relacionamento hierárquico.
+
+	D		
+É o compartilhamento de aspectos externos e internos de um objeto para que todos conheçam seu funcionamento.
+
+	E		
+Tem o foco separar os atributos das operações, mostrando apenas os aspectos internos desta.
+
+Questão 8/10 - Análise de Sistemas
+  Ler em voz alta
+O diagrama de caso de uso normalmente é o primeiro diagrama a ser construído, após o levantamento de requisitos. Pois, construir um diagrama de caso de uso é uma das formas de analisar o relacionamento de cada uma das funcionalidades que o software deve executar com os usuários que as executam. Analise as afirmações a seguir e marque com V as verdadeiras e com F as falsas.
+
+
+( ) O diagrama de casos de uso é utilizado para expressar a fronteira do sistema, mostrando a visão estática do caso de uso.
+
+
+( ) O diagrama de caso de uso serve também para auxiliar na comunicação entre o gerente do projeto e os stakeholders, pois mostra de forma visual o relacionamento entre as tarefas previstas para o sistema.  
+
+
+( ) As funcionalidades do sistema são apresentadas, no diagrama de caso de uso, do ponto de vista do patrocinador e de quem paga pelo sistema.  
+
+
+( ) O diagrama de Caso de Uso é representado por: atores, casos de uso e os relacionamentos entre estes elementos.
+
+Baseado nas suas respostas, a sequência correta é:
+Nota: 0.0Você não pontuou essa questão
+
+	A		V F V V.
+	B		F F V F.
+	C		
+V V V F.
+
+	D		F V F V.
+Você assinalou essa alternativa (D)
+
+	E		V F F V.
+Gabarito: A reposta correta é a letra E, conforme explicado no TEMA 3 da AULA 4.
+
+Questão 9/10 - Análise de Sistemas
+  Ler em voz alta
+O diagrama de Estado, para a UML, mostra o comportamento de um objeto, partir de determinados eventos. Baseado no diagrama de estado, avalie as afirmações a seguir:
+
+
+I. O diagrama de estado pode ser desenvolvido em qualquer fase do projeto técnico do software.
+
+
+II. O diagrama de estado baseia-se na descrição do um Caso de Uso e apoia-se no Diagrama de Classes.
+
+
+III. O diagrama de estado é entendido como um diagrama dinâmico, pois mostra a evolução de estados em um objeto, ao longo da sua vida no software.
+
+É correto afirmar que:
+
+Nota: 10.0
+
+	A		
+Todas as afirmações estão erradas
+
+	B		
+Todas as afirmações estão corretas
+
+Você assinalou essa alternativa (B)
+
+Você acertou!
+
+Gabarito: A resposta correta é a letra B, conforme Tema 1, item 1.1, da AULA 6.
+
+	C		
+Apenas as afirmações I e II estão corretas
+
+	D		
+Apenas a afirmação III está correta
+
+	E		
+Apenas as afirmações II e III estão corretas
+
+Questão 10/10 - Análise de Sistemas
+  Ler em voz alta
+Fazer software não é algo trivial. É preciso entender a necessidade do cliente, transformar isso em requisitos e traduzir os requisitos em linguagem técnica, que será codificada em uma linguagem de programação, gerando um sistema que será usado pelos usuários. Para entender bem o que o usuário precisa, é possível utilizar a UML para modelar vários tipos de diagrama diferentes. 
+Marque a opção que que melhor define o objetivo do diagrama de componentes:
+
+Nota: 10.0
+
+	A		
+O diagrama de componentes é uma representação que mostra estados, mudanças de estado e eventos de um objeto ou de uma parte do sistema.
+
+	B		
+O diagrama de componentes mostra objetos e seus relacionamentos, colocando ênfase nos objetos que participam na troca de mensagens.
+
+	C		
+O diagrama de componentes mostra os componentes de programação de alto nível. Este diagrama busca modelar como as classes deverão ser organizadas fisicamente no ambiente de desenvolvimento.
+
+Você assinalou essa alternativa (C)
+
+Você acertou!
+
+Gabarito: A resposta correta é a letra C, conforme o Tema 1 da AULA 6
+	D		
+O diagrama de componentes mostra atividades e as mudanças de uma atividade para outra com os eventos ocorridos em alguma parte do sistema, como esse fosse um fluxo de controle de uma atividade.
+
+	E		
+O diagrama de componentes mostra atores, casos de uso e seus relacionamentos.
+

@@ -1,0 +1,307 @@
+Questão 1/10 - Análise de Sistemas
+  Ler em voz alta
+O mercado de TI é muito amplo e oferece oportunidades para área de trabalho, tais como análise de sistemas, codificação, banco de dados, entre outras. O analista de sistemas é um papel fundamental no desenvolvimento do software.
+
+Marque a opção que melhor define o papel e as responsabilidades de um bom analista de sistemas:
+
+Nota: 10.0
+
+	A		
+O analista de sistemas projeta uma solução para implementar os requisitos levantados, baseada na arquitetura definida pelo arquiteto de software, gerando modelos e documentos que serão utilizados pelos programadores na construção do software.
+
+Você assinalou essa alternativa (A)
+
+Você acertou!
+
+A resposta correta é a letra A, conforme item 1.2 do Tema 1 da AULA 2.
+
+	B		
+O analista de sistemas projeta uma solução para os testes automatizados, que será utilizada pelos testadores, além de gerar modelos e documentos que serão utilizados pelos programadores na construção do software.
+
+	C		
+O analista de sistemas gerencia o versionamento dos códigos produzidos pela equipe de desenvolvimento, analisando se as funções implementadas estão de acordo com os requistos levantados.
+
+	D		
+O analista de sistemas define a melhor arquitetura para o software, baseado nos requisitos e na solução técnica definida. Além disso, o analista de sistemas garante a manutenção adequada do software, após entrar em produção.
+
+	E		
+O analista de sistemas organiza o ambiente de desenvolvimento para definir a melhor arquitetura que será usada pelos programadores na construção do software.
+
+Questão 2/10 - Análise de Sistemas
+  Ler em voz alta
+É comum ouvirmos falar em processos de negócio quando estamos buscando compreender como funciona uma empresa. Mas afinal o que é um processo de negócio?
+
+Marque a opção que melhor define o que é um processo de negócio:
+
+Nota: 10.0
+
+	A		
+Um processo de negócio pode ser definido como um conjunto de tarefas estruturadas e relacionadas, que tem como objetivo produzir um serviço ou produto específico.
+
+Você assinalou essa alternativa (A)
+
+Você acertou!
+
+A reposta correta é a letra A, conforme explicado no TEMA 1 da AULA 1.
+	B		
+Um processo de negócio pode ser definido como um conjunto de tecnologias que juntas entregam um software para o cliente.
+
+	C		
+Um processo de negócio pode ser definido como um conjunto de pessoas reunidas para resolver um problema.
+
+	D		
+Um processo de negócio pode ser definido como um conjunto de tarefas aleatórias, mas que servem para explicar a necessidade de um cliente.
+
+	E		
+Um processo de negócio pode ser definido como um conjunto de áreas de negócio reunidas para mostrar o resultado operacional de uma organização.
+
+Questão 3/10 - Análise de Sistemas
+  Ler em voz alta
+Segundo Pressman (2016), “entender os requisitos de um problema está entre as tarefas mais difíceis enfrentadas por um engenheiro de software”.
+
+Baseado nesta afirmação, marque a opção que melhor define o que é um requisito de software:
+
+Nota: 10.0
+
+	A		
+Os requisitos definem o que o sistema deve fazer para satisfazer as necessidades dos usuários.
+
+Você assinalou essa alternativa (A)
+
+Você acertou!
+
+A reposta correta é a letra A, conforme explicado no TEMA 1 da AULA 3.
+
+	B		
+Os requisitos definem o que o sistema não deve fazer, de forma a documentar o que está fora do escopo.
+
+	C		
+Os requisitos definem a melhor arquitetura para o software que está sendo modelado.
+
+	D		
+Os requisitos definem as classes que o sistema deve possuir para satisfazer as necessidades dos usuários.
+
+	E		
+Os requisitos definem os protótipos que devem ser construídos para facilitar o entendimento sobre o software que está sendo modelado.
+
+Questão 4/10 - Análise de Sistemas
+  Ler em voz alta
+O diagrama de fluxo de dados, ou DFD é uma das ferramentas mais utilizadas na análise estruturada para compreender como se comporta o fluxo dos dados do software.
+
+Baseado nos conceitos sobre DFD, avalie as afirmações a seguir:
+
+I. O DFD ajuda a compreender e analisar o fluxo de dados dentro do próprio sistema.
+II. O DFD ajuda a compreender o fluxo de dados com o mundo exterior e do mundo exterior com o sistema.
+III. O DFD possui uma representação em rede, que mostra as funcionalidades que o sistema deve entregar e os dados que interligam estas funcionalidades
+
+
+É correto afirmar que:
+Nota: 10.0
+
+	A		
+Todas as afirmações estão erradas.
+
+	B		
+Todas as afirmações estão corretas.
+
+Você assinalou essa alternativa (B)
+
+Você acertou!
+
+A resposta correta é a letra B, conforme introdução do Tema 3 da AULA 2.
+
+	C		
+Apenas as afirmações I e II estão corretas.
+
+	D		
+Apenas a afirmação III está correta.
+
+	E		
+Apenas as afirmações II e III estão corretas.
+
+Questão 5/10 - Análise de Sistemas
+  Ler em voz alta
+Estamos vivendo na Era da Informação, o que significa que cada vez mais a informação está presente em todos os pontos da nossa vida.
+
+Baseado nesta afirmação, marque a opção que melhor define a importância da informação para o negócio:
+
+Nota: 10.0
+
+	A		
+As informações corretas e relevantes são fontes de poder, uma vez que permitem analisar fatores do passado, compreender o presente, e principalmente, prever o futuro.
+
+Você assinalou essa alternativa (A)
+
+Você acertou!
+
+A reposta correta é a letra A, conforme explicado no TEMA 1 da AULA 2.
+
+	B		
+As informações não são importantes para o negócio, pois as pessoas conseguem resolver os problemas sem nenhuma informação.
+
+	C		
+As informações corretas e relevantes são muito caras para serem obtidas, por isso não vale a pena o investimento.
+
+	D		
+Qualquer informação pode ser obtida facilmente na internet e utilizada para tomar decisões na organização.
+
+	E		
+As informações corretas e relevantes são vistas como fonte de conhecimento, assim como a experiência das pessoas, por isso as informações não são tão importantes para o negócio.
+
+Questão 6/10 - Análise de Sistemas
+  Ler em voz alta
+O analista de requisitos é um profissional muito requisitado para projetos de desenvolvimento de software, pois ele é o responsável pelo levantamento dos requisitos, que é uma fase crucial para entender o que deve ser feito para construir um software adequado para às necessidades do cliente.
+
+Este profissional deve desenvolver algumas capacidades, tais como: 
+
+I. Saber ouvir os usuários sobre o funcionamento dos requisitos.
+II. Instigar os usuários a contar os detalhes sobre os requisitos.
+III. Provocar discussões objetivas para definir o modelo de banco de dados.
+
+
+São corretas:
+Nota: 10.0
+
+	A		
+Apenas II.
+
+	B		
+Apenas I e II.
+
+Você assinalou essa alternativa (B)
+
+Você acertou!
+
+A Resposta correta é a letra B. As afirmações I e II são corretas, conforme o item 1.2 do Tema 1 da AULA 3.
+
+	C		
+Apenas I e III.
+
+	D		
+Apenas II e III.
+
+	E		
+I, II, III.
+
+Questão 7/10 - Análise de Sistemas
+  Ler em voz alta
+A notação BPMN, que é a notação usada pelo BPM para modelar processos, possui vários elementos que facilitam a leitura e o entendimento do fluxo, e que facilitam também o entendimento de como será o comportamento do software que irá automatizar o processo modelado.
+Baseado nisso, avalie as afirmações a seguir:
+I. Representado pelo losango, o gateway tem a função de mostrar um ponto de decisão no fluxo.
+II. Uma piscina contém um único processo.
+III. Os envolvidos na execução do processo são também chamados de ator.
+
+
+É correto afirmar que:
+
+Nota: 0.0Você não pontuou essa questão
+
+	A		Todas as afirmações estão erradas.
+	B		Todas as afirmações estão corretas.
+Conforme a aula textual 01, todas as afirmações estão corretas.
+	C		Apenas as afirmações I e II estão corretas.
+	D		Apenas a afirmação III está correta.
+	E		Apenas as afirmações II e III estão corretas.
+Você assinalou essa alternativa (E)
+
+Questão 8/10 - Análise de Sistemas
+  Ler em voz alta
+O entendimento dos requisitos é algo complexo e crítico para o sucesso de um projeto de software, dessa forma, eles precisam ser bem entendidos e documentados ao longo do ciclo de vida da engenharia de requisitos. É muito comum os projetos de software usarem um documento de especificação de requisitos para este objetivo.
+
+Marque a opção que melhor define o objetivo do documento de especificação de requisitos:
+
+Nota: 10.0
+
+	A		
+O documento de especificação de requisitos deve estabelecer os requisitos funcionais e os requisitos não funcionais.
+
+Você assinalou essa alternativa (A)
+
+Você acertou!
+
+A resposta correta é a letra A, conforme item 1.3 do Tema 1 da AULA 3.O documento de especificação de requisitos deve estabelecer apenas os requisitos funcionais do software.
+
+	B		
+O documento de especificação de requisitos deve estabelecer apenas os requisitos funcionais do software.
+
+	C		
+O documento de especificação de requisitos deve estabelecer apenas os requisitos não funcionais do software.
+
+	D		
+O documento de especificação de requisitos deve estabelecer os requisitos de usabilidade e de performance do software.
+
+	E		
+O documento de especificação de requisitos deve estabelecer as regras de navegabilidade do software.
+
+Questão 9/10 - Análise de Sistemas
+  Ler em voz alta
+A análise estruturada de sistemas é composta por um conjunto de técnicas e ferramentas que continuam em constante evolução, apesar de ser um método mais antigo de se fazer análise de sistemas.
+
+Marque a opção que que melhor define o objetivo principal da análise estruturada:
+
+Nota: 10.0
+
+	A		
+A análise estruturada tem como objetivo planejar o gerenciamento correto do projeto, de forma a garantir o custo e o prazo previsto para entregar o escopo acordado com o cliente.
+
+	B		
+A análise estruturada tem como objetivo definir modelos escritos, com o detalhamento da arquitetura de software que será utilizada.
+
+	C		A análise estruturada tem como objetivo buscar compreender a lógica por traz de cada funcionalidade que precisa ser desenvolvida no software.
+Você assinalou essa alternativa (C)
+
+Você acertou!
+
+A resposta correta é a letra C, conforme a introdução do Tema 2 da AULA 2.
+
+	D		A análise estruturada tem como objetivo construir o modelo lógico e o modelo físico do software que será desenvolvido.
+	E		
+A análise estruturada tem como objetivo organizar o ciclo de vida de software com fases bem definidas e sequenciais, onde a próxima fase prevista só inicia quando a anterior é concluída.
+
+Questão 10/10 - Análise de Sistemas
+  Ler em voz alta
+O BPM (Business Process Management) é uma disciplina de gestão crucial para compreender os processos de negócios, enfatizando a importância de vários aspectos para assegurar um conhecimento abrangente e preciso do negócio a ser modelado. 
+
+Com base nos princípios fundamentais do BPM, avalie as seguintes afirmações como Verdadeiras (V) ou Falsas (F):
+
+
+( ) O BPM avalia as contribuições individuais das pessoas, considerando suas atividades de forma isolada.
+( ) O BPM considera as interações entre as pessoas e como elas colaboram no contexto dos processos de negócios.
+( ) O BPM envolve o entendimento dos processos de negócios de forma integral, desde o início até a conclusão, gerando automaticamente os resultados esperados.
+( ) O BPM foca no entendimento dos pontos de decisão nos processos, pois estes são cruciais para determinar os resultados esperados.
+
+
+Com base nas suas respostas, a sequência correta é:
+Nota: 10.0
+
+	A		
+V F V V
+
+	B		
+F F V F
+
+	C		
+V V V F
+
+	D		
+F V F V
+
+Você assinalou essa alternativa (D)
+
+Você acertou!
+
+Resposta Correta: Com base na análise, a sequência correta de respostas é F V F V, que corresponde à alternativa D, conforme explicado no TEMA 3 da AULA 1.
+
+Análise das Afirmações:
+
+Falsa. O BPM não foca apenas nas contribuições individuais de forma isolada, mas na integração dessas contribuições no contexto maior dos processos de negócios.
+
+Verdadeira. Uma parte essencial do BPM é compreender como as pessoas interagem e colaboram dentro dos processos de negócios.
+
+Falsa. Embora o BPM envolva o entendimento completo dos processos, ele não garante automaticamente a geração dos resultados esperados. Isso depende de vários outros fatores.
+
+Verdadeira. Entender os pontos de decisão dentro dos processos é crucial, pois influenciam significativamente os resultados dos processos.
+
+	E		
+V F F V
+
